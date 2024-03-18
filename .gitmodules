@@ -1,0 +1,12 @@
+[submodule "Polygon-Area-Calculator"]
+	path = Polygon-Area-Calculator
+	url = https://github.com/RSMelina/Polygon-Area-Calculator.git
+[submodule "Arithmethic-Arranger"]
+	path = Arithmethic-Arranger
+	url = https://github.com/RSMelina/arithmetic_arranger.git
+[submodule "Budget-App"]
+	path = Budget-App
+	url = https://github.com/RSMelina/Budget-App.git
+[submodule "Probability_Calculator"]
+	path = Probability_Calculator
+	url = https://github.com/RSMelina/Probability_Calculator.git
