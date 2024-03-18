@@ -10,3 +10,6 @@
 [submodule "Probability_Calculator"]
 	path = Probability_Calculator
 	url = https://github.com/RSMelina/Probability_Calculator.git
+[submodule "Time-Calculator"]
+	path = Time-Calculator
+	url = https://github.com/RSMelina/Time_calculator.git
